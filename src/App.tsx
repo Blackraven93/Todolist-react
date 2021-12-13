@@ -1,5 +1,5 @@
 import GlobalStyle from "./Globalstyle";
-import ToDoList from "./ToDoList";
+import ToDoList from "./Components/ToDoList";
 
 
 
